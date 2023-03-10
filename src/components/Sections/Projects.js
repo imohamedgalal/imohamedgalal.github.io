@@ -39,6 +39,18 @@ const Projects = () => {
                         </strong>
                     </div>
                 </div>
+                <div className="project-card">
+                    <div className="project-image">
+                        <img src="images/work3.jpg" alt="" />
+                    </div>
+                    <div className="project-info">
+                        <p className="project-category">Kayan Book Store</p>
+                        <strong className="project-title">
+                            <span>an Book Store project</span><br /><br />
+                            <a href="https://imohamedgalal.github.io/book_store/" className="more-details">More details</a>
+                        </strong>
+                    </div>
+                </div>
             </div>
         </section>
     );
